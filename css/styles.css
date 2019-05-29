@@ -1,15 +1,13 @@
-h1 {
-  color: Blue;
-}
+
 
 body {
-  background-color: green;
+  background-color: gray;
 }
 
 p {
- color: yellow;
+ color: orange;
 }
 
 ol {
-  color: red;
+  color: orange;
 }
